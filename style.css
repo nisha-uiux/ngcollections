@@ -694,6 +694,7 @@ footer .footer_main .tag .search_bar button{
     border-radius: 25px;
     color: white;
     cursor:pointer;
+    
 }
 /* xl */
 @media (max-width:1280px) {
